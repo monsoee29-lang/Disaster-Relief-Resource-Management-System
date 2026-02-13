@@ -10,7 +10,7 @@ Course: Data Structures and Algorithms (Parami University)
 
 Following the catastrophic 7.7 magnitude earthquake in Myanmar on March 28, 2025, coordination of aid became a critical challenge. This project simulates an automated Disaster Relief Management System designed to optimize the logistics of donated resources.The application ensures that aid is not just distributed, but prioritized based on the severity of the disaster and the most efficient travel routes.
 
-**🛠 Data Science & Algorithmic Workflow1.**
+**🛠 Data Science & Algorithmic Workflow.**
 
 **(1) Data Structures for Logistics**
 
